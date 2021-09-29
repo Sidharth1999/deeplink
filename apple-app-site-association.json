@@ -1,10 +1,14 @@
 {
-  applinks: {
-      apps: [ ],
-      details: [{
-          appID: "V9N5BHRRVJ.com.app.fwaygo",
-          paths: ["NOT /_/*","/*"]
-          }
-      ]
-  }
+applinks: {
+apps: [ ],
+details: [
+{
+appID: "V9N5BHRRVJ.com.app.fwaygo",
+paths: [
+"NOT /_/*",
+"/*"
+]
+}
+]
+}
 }
